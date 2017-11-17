@@ -1,0 +1,1 @@
+查询Android平台的OpenCL的信息。

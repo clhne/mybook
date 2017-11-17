@@ -1,0 +1,9 @@
+修改文件
+lc6830.c:
+	主要是修改了sensor_power_on和sensor_power_off函数，在系统睡眠时，拉低相应管脚，降低其功耗。
+camera.c:
+	修改pxa_camera_get_framerate函数，实现录像时选取15fps和30fps有效。
+CoreISP3_2010_0107.c:
+	为上层提供了固件更新的接口
+MCU_BIN.h:
+	新版本的固件修复了横条波纹、白平衡等问题。
