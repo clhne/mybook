@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestBed", "TestBed\TestBed.vcxproj", "{F510AC76-7962-4E7D-9800-66EDC9762AC1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Common", "Common\Common.vcxproj", "{45E70B52-0D57-45E3-8C16-E45B7188F76F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F510AC76-7962-4E7D-9800-66EDC9762AC1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F510AC76-7962-4E7D-9800-66EDC9762AC1}.Debug|Win32.Build.0 = Debug|Win32
+		{F510AC76-7962-4E7D-9800-66EDC9762AC1}.Debug|x64.ActiveCfg = Debug|Win32
+		{F510AC76-7962-4E7D-9800-66EDC9762AC1}.Release|Win32.ActiveCfg = Release|Win32
+		{F510AC76-7962-4E7D-9800-66EDC9762AC1}.Release|Win32.Build.0 = Release|Win32
+		{F510AC76-7962-4E7D-9800-66EDC9762AC1}.Release|x64.ActiveCfg = Release|Win32
+		{45E70B52-0D57-45E3-8C16-E45B7188F76F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{45E70B52-0D57-45E3-8C16-E45B7188F76F}.Debug|Win32.Build.0 = Debug|Win32
+		{45E70B52-0D57-45E3-8C16-E45B7188F76F}.Debug|x64.ActiveCfg = Debug|x64
+		{45E70B52-0D57-45E3-8C16-E45B7188F76F}.Debug|x64.Build.0 = Debug|x64
+		{45E70B52-0D57-45E3-8C16-E45B7188F76F}.Release|Win32.ActiveCfg = Release|Win32
+		{45E70B52-0D57-45E3-8C16-E45B7188F76F}.Release|Win32.Build.0 = Release|Win32
+		{45E70B52-0D57-45E3-8C16-E45B7188F76F}.Release|x64.ActiveCfg = Release|x64
+		{45E70B52-0D57-45E3-8C16-E45B7188F76F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		AMDCaProjectFile = C:\workspace\CLPX\current\DVPX\CodeAnalyst\DVPX10.caw
+		AMDCaPersistentStartup = TestBed
+		AMDCaPersistentConfig = Release|Win32
+	EndGlobalSection
+EndGlobal
